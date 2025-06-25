@@ -172,8 +172,11 @@ environments/etc/ssh/ssh_host_ed25519_key.pub
 environments/etc/ssh/ssh_host_rsa_key
 environments/etc/ssh/ssh_host_rsa_key.pub
 environments/etc/home/.ssh/authorized_keys
+environments/etc/home/.ssh/id_ed25519_container.pub
 environments/etc/home/.ssh/id_ed25519_container
 environments/etc/home/.ssh/id_ed25519_git
 environments/etc/home/.ssh/known_hosts
 
 *.zip
+.pt_tmp/
+lightning_logs/
